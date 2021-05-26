@@ -19,9 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: JaeEun Themis Lee
-email: NOTYETHAHA@gmail.com
+email: NOTYETHAHA!!@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dear Reader, Welcome to my website ...From JaeEun Lee 
+  Dear Reader, 
+  Welcome to my website ...
+  From JaeEun Lee 
 
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
